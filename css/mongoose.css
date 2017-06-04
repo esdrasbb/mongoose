@@ -144,17 +144,23 @@ nav ul li {
         width: 970px;
     }
     .col-md-1 {
-        width: 25%;
+        width: 16.6666666%;
     }
     .col-md-2 {
-        width: 50%;
+        width: 33.3333333%;
     }
     .col-md-3 {
-        width: 75%;
+        width: 50%;
     }
     .col-md-4{        
+        width: 66.6666666%;
+    }
+    .col-md-5 {        
+        width: 83.3333333%;
+    }
+    .col-md-6 {        
         width: 100%;
-    }    
+    }
     nav {
         min-height: 25px;
     }
