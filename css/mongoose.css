@@ -16,6 +16,9 @@
 .col-xs, .col-sm-1, .col-sm-2,  .col-sm-3,  .col-sm-4, .col-md-1, .col-md-2, .col-md-3, .col-md-4 {
     float: left;
 }
+body {
+    background-color: lightblue;
+}    
 table {
     border: 0;
     border-collapse: collapse;
@@ -120,7 +123,7 @@ video {
     nav ul li {
         width: 100%;
         float: none;
-    }    
+    }   
 }
 /* Dispositivos pequenos (Tablets - 768px e superiores) */
 @media only screen and (min-width: 768px) and (max-width: 991px) { 
@@ -145,6 +148,9 @@ video {
     nav ul li {
         width: 33.33333%;
     }    
+    body {
+        background-color: lightpink;
+    }         
  }
 /* Dispositivos médios e grandes (Desktops - 992px e superiores) */
 @media only screen and (min-width: 992px) { 
@@ -174,5 +180,8 @@ video {
     }
     nav ul li {
         width: 33.33333%;
-    }          
+    }  
+    body {
+        background-color: lightseagreen;
+    }                 
  }
