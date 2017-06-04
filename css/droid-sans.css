@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Droid Sans';
+  src: url('../fonts/Droid_Sans/DroidSans.ttf') format('truetype');
+}
+
+.droid-sans {
+  font-family: 'Droid Sans';
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.1;
+  color: #333;
+}

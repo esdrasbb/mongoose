@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/Open_Sans/OpenSans-Regular.ttf') format('truetype');
+}
+
+.open-sans {
+  font-family: 'Open Sans';
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.1;
+  color: #333;
+}
